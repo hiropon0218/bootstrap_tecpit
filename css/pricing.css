@@ -1,0 +1,11 @@
+/* フォントサイズ初期化 */
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+/* フォントサイズ初期化ここまで */
