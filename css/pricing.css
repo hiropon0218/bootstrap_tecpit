@@ -1,0 +1,23 @@
+/* フォントサイズ初期化 */
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+/* フォントサイズ初期化ここまで */
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
