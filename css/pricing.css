@@ -9,3 +9,7 @@ html {
   }
 }
 /* フォントサイズ初期化ここまで */
+
+.pricing-header {
+  max-width: 700px;
+}
