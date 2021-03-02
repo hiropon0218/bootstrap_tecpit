@@ -40,3 +40,17 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+
+.marketing .col-lg {
+  margin-bottom: 1.5rem;
+}
+
+.marketing h2 {
+  font-weight: 400;
+}
+
+.marketing .col-lg p {
+  margin-right: .75rem;
+  margin-left:  .75rem;
+}
